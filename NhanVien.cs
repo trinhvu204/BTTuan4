@@ -28,8 +28,6 @@ namespace BTTuan4
             txtMSNV.Text = TenNV;
             txtLuongCB.Text = LuongNV;
 
-           
-
         }
          
         private void btnDongY_Click(object sender, EventArgs e)
